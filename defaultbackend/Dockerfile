@@ -1,0 +1,2 @@
+FROM k8s.gcr.io/defaultbackend:1.0
+MAINTAINER kevinlin.job@gmail.com
